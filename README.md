@@ -1,2 +1,2 @@
 # Calculator
-A simple calculator
+A simple calculator using express.js(web application framework for Node.js)
