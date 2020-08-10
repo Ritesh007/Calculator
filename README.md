@@ -6,3 +6,4 @@ A simple calculator using express.js(web application framework for Node.js)
 2. Connect with express route
 3. Node build config
 4. Configure test
+5. Configre nodemon
