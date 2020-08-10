@@ -7,3 +7,5 @@ A simple calculator using express.js(web application framework for Node.js)
 3. Node build config
 4. Configure test
 5. Configre nodemon
+6. Configure yarn
+7. Configure semantic release
