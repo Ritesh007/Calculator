@@ -5,7 +5,15 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Launch Program",
+            "command": "Launch VUE JS",
+            "name": "Run npm start",
+            "request": "launch",
+            "type": "node-terminal",
+            "cwd": "${workspaceFolder}/client",
+            "timeout": 1
+        },
+        {
+            "name": "Launch Express API server",
             "program": "${workspaceFolder}/app.js",
             "request": "launch",
             "skipFiles": [
